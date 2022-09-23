@@ -456,6 +456,10 @@ img {
 .bgrid-sixth .bgrid {
 	width: 16.66667%;
 }
+.bgrid-fifth .bgrid {
+	width: 19%;
+	margin-inline: 0.5%;
+}
 .bgrid-fourth .bgrid {
 	width: 25%;
 }
