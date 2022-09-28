@@ -1082,7 +1082,7 @@ footer ul li a, footer ul li a:visited {
 }
 footer .copyright {
 	margin: 0;
-	padding: 24px 18px 6px 18px;
+	/*padding: 24px 18px 6px 18px;*/
 	clear: both;
 }
 
@@ -1495,6 +1495,7 @@ hr {
 	position: absolute;
 	top: 10%;
 	left: 10%;
+	right: 10%;
 	filter: alpha(opacity=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	opacity: 0;
@@ -1505,6 +1506,11 @@ hr {
 	-ms-transition: opacity 0.3s ease-in-out;
 	transition: opacity 0.3s ease-in-out;
 }
+
+.item .item-wrap .portfolio-item-meta p{
+	text-align: justify;
+}
+
 .item .item-wrap .portfolio-item-meta h5 {
 	font: 15px/21px "raleway-heavy", sans-serif;
 	margin: 0;

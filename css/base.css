@@ -463,9 +463,16 @@ img {
 .bgrid-fourth .bgrid {
 	width: 25%;
 }
+.bgrid-third-custom .bgrid{
+	width: 31.33333%;
+	margin-inline: 0.5%;
+	margin-block: 0.5%;
+	border: #008383 2px solid;
+}
 .bgrid-third .bgrid {
 	width: 33.33333%;
 }
+
 .bgrid-half .bgrid {
 	width: 50%;
 }
