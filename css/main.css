@@ -1586,7 +1586,7 @@ hr {
 /* =================================================================== */
 
 #about {
-	background: white;
+	background: #ecf0f1;
 	padding-top: 120px;
 	padding-bottom: 0;
 }
@@ -1611,8 +1611,8 @@ hr {
 
 /* Team Section
 /* -------------------------------------------------------------------- */
-#about #team {
-	background: #ecf0f1;
+#team {
+	background: white;
 	margin-top: 66px;
 	padding-top: 78px;
 	padding-bottom: 120px;
@@ -1626,6 +1626,7 @@ hr {
 #team-wrapper .member {
 	margin-top: 18px;
 	margin-bottom: 36px;
+	text-align: center;
 }
 #team-wrapper .member-header {
 	position: relative;
@@ -1642,7 +1643,6 @@ hr {
 	border-radius: 100%;
 }
 #team-wrapper .member-name {
-	display: inline-block;
 	padding-top: 9px;
 	margin-left: 12px;
 }
