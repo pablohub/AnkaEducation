@@ -1613,7 +1613,6 @@ hr {
 /* -------------------------------------------------------------------- */
 #team {
 	background: white;
-	margin-top: 66px;
 	padding-top: 78px;
 	padding-bottom: 120px;
 }
@@ -1643,6 +1642,7 @@ hr {
 	border-radius: 100%;
 }
 #team-wrapper .member-name {
+	margin-top: 15px;
 	padding-top: 9px;
 	margin-left: 12px;
 }
