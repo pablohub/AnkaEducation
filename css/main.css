@@ -1443,6 +1443,7 @@ hr {
 #portfolio {
 	background: white;
 	padding-top: 120px;
+	padding-bottom: 120px;
 }
 .ie #portfolio .row.items {
 	width: 1140px;
