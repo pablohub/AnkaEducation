@@ -632,3 +632,29 @@ different heights to align properly. */
 	margin-right: auto;
 	text-align: center;
 }
+
+.text-white{
+	color: white;
+}
+
+.text-lightgray{
+	color: lightgray;
+}
+
+.curso-detalle{
+	border: 3px solid #575859;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.curso-detalle h2{
+	margin: 0;
+}
+
+.curso-detalle span{
+	font-size: 12px;
+}
+
+.mt-10{
+	margin-top: 10px;
+}

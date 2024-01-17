@@ -2007,3 +2007,11 @@ hr {
 .more-projects .portfolio-wrapper {
 	text-align: left;
 }
+
+/*Agregado*/
+#curso-detalle {
+    background: #12151b;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    overflow: hidden;
+}
