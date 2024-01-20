@@ -641,6 +641,10 @@ different heights to align properly. */
 	color: lightgray;
 }
 
+.text-black{
+	color: black;
+}
+
 .curso-detalle{
 	border: 3px solid #575859;
 	border-radius: 3px;
@@ -657,4 +661,55 @@ different heights to align properly. */
 
 .mt-10{
 	margin-top: 10px;
+}
+
+.preventa{
+	background: #6fbfb6;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+}
+
+.preventa-detalle{
+	border: 3px solid #cccccc;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.preventa-detalle h2{
+	margin: 0;
+}
+
+.preventa-detalle span{
+	font-size: 15px;
+}
+
+.preventa-detalle a{
+	display: inline-block;
+    font: 15px/30px "raleway-bold", sans-serif;
+    padding: 9px 16px;
+    margin: 0 3px 6px 0;
+    background: #000000;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    height: auto;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    -webkit-font-smoothing: inherit;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.preventa-detalle a:hover {
+	background: #202020;
+	color: white;
+}
+
+.preventa-detalle a:visited {
+	color: white;
 }
